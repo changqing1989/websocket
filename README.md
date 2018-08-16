@@ -1,2 +1,4 @@
-##npm install -g node-gyp
-##npm install websocket
+##
+npm install -g node-gyp
+##
+npm install websocket
